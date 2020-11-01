@@ -1,6 +1,7 @@
 # CV-Archive
-Resource from Computer Vision lecture 2020
-Include **powerpoint slide** and **weekly task** in google colaboratory
+Resource Computer Vision lecture 2020 from Informatics Telkom Univesity
+
+Include **slide** and **weekly task** in google colaboratory
 
 ---
 
