@@ -26,4 +26,7 @@ Include **slide** and **weekly task** in google colaboratory
 7. [Week 7](https://github.com/evanezcent/CV-Archive/tree/main/Week%20-%207/)
     - Slide
     - Ipynb
+8. [Week 8](https://github.com/evanezcent/CV-Archive/tree/main/Week%20-%208/)
+    - Slide
+    - Ipynb
 
