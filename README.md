@@ -35,4 +35,7 @@ Include **slide** and **weekly task** in google colaboratory
 10. [Week 10](https://github.com/evanezcent/CV-Archive/tree/master/Week%20-%2010/) **`YOLO for Object Detection`**
     - Slide
     - Ipynb
+11. [Week 11](https://github.com/evanezcent/CV-Archive/tree/master/Week%20-%2011/) **`Object Segmentation using Deep Learning`**
+    - Slide
+    - Ipynb
 
