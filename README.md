@@ -36,3 +36,11 @@ Include **slide** and **weekly task** in google colaboratory
     - Slide
     - Ipynb
 
+11. [Week 11](https://github.com/evanezcent/CV-Archive/tree/master/Week%20-%2011/) **`Object Segmentation`**
+    - Slide
+    - Ipynb
+
+12. [Week 12](https://github.com/evanezcent/CV-Archive/tree/master/Week%20-%2012/) **`Image Captioning with RNN`**
+    - Slide
+    - Ipynb
+
